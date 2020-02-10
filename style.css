@@ -33,14 +33,22 @@ nav{
     margin-right: 18px;
 }
 
-.nav_menu_items p{
+.nav_menu_items p a{
     font-size: 14.25px;
     font-family: nyt-franklin,helvetica,arial,sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     margin-left: 5px;
     margin-top: 2px;
+    color: #000000;
+    text-decoration: none;
 }
+
+.nav_menu_items p a:hover{
+    text-decoration: underline;
+}
+
+
 
 .menu-bttons{
     margin-right: 15px;
