@@ -56,3 +56,31 @@ nav button{
     border: none;
     border-radius: 3px;
 }
+
+.middle-container{
+    width: 941px;
+    height: 500px;
+    margin: 0 auto;   
+}
+
+.intro{
+    margin-left: 160px;
+    margin-top: 85px;
+    margin-bottom: 25px;
+    
+}
+.intro p{
+    font-size: 40px;
+    color: #121212;
+    font-family: nyt-cheltenham, georgia,"times new roman";
+    font-style: italic;
+    font-weight:530;
+}
+
+.img-desc{
+    width:720px;
+    font-size:15px;
+    color: #666666;
+    font-family: nyt-imperial,georgia,"times new roman";
+    margin-top: 7px;
+}
