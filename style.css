@@ -24,12 +24,15 @@ nav{
     margin-left: 15px;
     
 }
+
 .menu_item{
     margin-right: 18px;
 }
+
 .nav_menu_items>div{
     margin-right: 18px;
 }
+
 .nav_menu_items p{
     font-size: 14.25px;
     font-family: nyt-franklin,helvetica,arial,sans-serif;
@@ -37,4 +40,19 @@ nav{
     text-transform: uppercase;
     margin-left: 5px;
     margin-top: 2px;
+}
+
+.menu-bttons{
+    margin-right: 15px;
+
+}
+nav button{
+    padding: 11px 12px 8px;
+    text-transform: uppercase;
+    font-size: 11px;
+    background: #567B95;
+    color:#FFFFFF;
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    border: none;
+    border-radius: 3px;
 }
