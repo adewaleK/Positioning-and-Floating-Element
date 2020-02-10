@@ -92,3 +92,11 @@ nav button{
     font-family: nyt-imperial,georgia,"times new roman";
     margin-top: 7px;
 }
+
+.third-container{
+    width: 600px;
+    height: 300px;
+    border: 1px solid red;
+    margin: 0 auto;
+    margin-top: 270px;
+}
