@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: #FFFFFF;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 7px;
+    padding-bottom: 0px;
+    border-bottom: 1px solid #E2E2E2;
+    position: fixed;
+    width: 100%;  
+    background-color: #FFFFFF;
+    margin-top: -85px;
+}
