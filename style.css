@@ -100,3 +100,34 @@ nav button{
     margin: 0 auto;
     margin-top: 270px;
 }
+.author{
+    font-size: 15px;
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    color: #333333;
+    font-weight: bold;
+}
+
+.author a{
+    font-size: 15px;
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    color: #333333;
+}
+
+.author a:hover{
+    text-decoration: none;
+}
+
+.stat{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-evenly;
+}
+
+.stat>div:nth-child(2){
+    margin-left: auto;
+}
+
+.stat img{
+    margin-right: 8px;
+}
+
