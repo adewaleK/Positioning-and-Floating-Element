@@ -17,3 +17,24 @@ nav{
     background-color: #FFFFFF;
     margin-top: -85px;
 }
+
+.nav_menu_items{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 15px;
+    
+}
+.menu_item{
+    margin-right: 18px;
+}
+.nav_menu_items>div{
+    margin-right: 18px;
+}
+.nav_menu_items p{
+    font-size: 14.25px;
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-left: 5px;
+    margin-top: 2px;
+}
