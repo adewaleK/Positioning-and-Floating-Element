@@ -186,6 +186,14 @@ nav button{
 
 .inflation{
     margin-top: 2135px;
+    background-image: url(images/down.png);
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-position: center;
+    background-size: cover;
+    height: 576px;
+    width: 945px;
+    
     
 }
 
