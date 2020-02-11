@@ -161,3 +161,11 @@ nav button{
     text-decoration: none;
 }
 
+.special-paragraph{
+    font-size: 20px;
+    color: #333333;
+    font-family: nyt-imperial,georgia,"times new roman";
+    font-weight: bold;
+    margin:20px 0;
+}
+
