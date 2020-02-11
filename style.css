@@ -189,3 +189,10 @@ nav button{
     
 }
 
+.inflation p{
+    color: #000000;
+    font-size: 20px;
+    font-family: nyt-cheltenham, georgia,"times new roman";
+    font-weight: 450;
+}
+
