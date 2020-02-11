@@ -66,9 +66,10 @@ nav button{
 }
 
 .middle-container{
-    width: 941px;
-    height: 500px;
-    margin: 0 auto;   
+    width: 1200px;
+    height: 700px;
+    margin: 0 auto;
+      
 }
 
 .intro{
@@ -167,5 +168,16 @@ nav button{
     font-family: nyt-imperial,georgia,"times new roman";
     font-weight: bold;
     margin:20px 0;
+}
+
+.paragraph-link{
+    color: #326891; 
+
+}
+
+.paragraph-link:hover{
+    color: #326891; 
+    text-decoration: none;
+
 }
 
