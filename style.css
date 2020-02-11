@@ -146,6 +146,11 @@ nav button{
 
 .short-paragraph{
     text-align: center;
+    font-size: 15px;
+    color: #333333; 
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    font-weight: bold;
+
     
 
 }
