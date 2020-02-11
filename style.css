@@ -66,8 +66,7 @@ nav button{
 }
 
 .middle-container{
-    width: 1180px;
-    height: 700px;
+    width: 945px;
     margin: 0 auto;
       
 }
@@ -98,7 +97,7 @@ nav button{
     width: 600px;
     height: 300px;
     margin: 0 auto;
-    margin-top: 270px;
+    margin-top: 50px;
 }
 .author{
     font-size: 15px;
