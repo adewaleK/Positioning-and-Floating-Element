@@ -131,3 +131,11 @@ nav button{
     margin-right: 7px;
 }
 
+.main-paragraph{
+    font-size: 20px;
+    font-family: nyt-imperial,georgia,"times new roman";
+    color: #333333;
+    line-height: 1.5;
+
+}
+
