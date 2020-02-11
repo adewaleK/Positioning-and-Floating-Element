@@ -122,6 +122,10 @@ nav button{
     justify-content: space-evenly;
 }
 
+.stat p{
+    margin-top: 10px;
+}
+
 .stat>div:nth-child(2){
     margin-left: auto;
 }
