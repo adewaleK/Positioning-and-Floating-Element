@@ -253,4 +253,28 @@ nav button{
     font-family:  nyt-franklin,arial,helvetica,sans-serif;
 }
 
+.co-authors{
+    margin-top: 40px;
+
+}
+
+.co-authors hr{
+    margin-top: 40px;
+    width: 60px;
+    background-color:#000000;
+    margin-bottom: 15px;
+
+}
+
+.co-authors p{
+    color: #333333;
+    font-size: 14px;
+    font-family: nyt-franklin,arial,helvetica,sans-serif;
+    line-height: 1.125rem;
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+
 
