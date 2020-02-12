@@ -206,8 +206,6 @@ nav button{
     font-size: 14px;
     font-family: nyt-cheltenham-sh, georgia,"times new roman";
 
-
-
 }
 
 
@@ -221,6 +219,38 @@ nav button{
     height: 576px;
     width: 945px;
       
+}
+
+.features{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+.features>div{
+    margin-top: 150px;
+    width: 228px;
+    height: 120px;
+    box-sizing: border-box;  
+}
+
+
+.features>div p{
+    color: #000000;
+    font-size: 14px;
+    font-family:  nyt-franklin,arial,helvetica,sans-serif;
+    line-height: 17px;
+    
+    font-weight: lighter;
+    
+}
+
+.features span{
+    font-size: 11px;
+    font-weight: 800;
+    color: #000000;
+    font-family:  nyt-franklin,arial,helvetica,sans-serif;
 }
 
 
