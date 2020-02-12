@@ -192,6 +192,25 @@ nav button{
 
 }
 
+.top-container .first-top{
+    color: #000000;
+    font-size: 20px;
+    font-family: nyt-cheltenham, georgia,"times new roman";
+    font-weight: 450;
+    margin-bottom: 5px;
+
+}
+
+.top-container .second-top{
+    color: #666666;
+    font-size: 14px;
+    font-family: nyt-cheltenham-sh, georgia,"times new roman";
+
+
+
+}
+
+
 .inflation{
     margin-top: -515px;
     background-image: url(images/down.png);
@@ -201,14 +220,7 @@ nav button{
     background-size: cover;
     height: 576px;
     width: 945px;
-    
-    
+      
 }
 
-.inflation p{
-    color: #000000;
-    font-size: 20px;
-    font-family: nyt-cheltenham, georgia,"times new roman";
-    font-weight: 450;
-}
 
