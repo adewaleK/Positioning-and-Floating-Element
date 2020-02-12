@@ -288,5 +288,20 @@ nav button{
     margin-top: 45px;
 }
 
+.img-text{
+    font-size: 13px;
+    color: #888888;
+    font-family: nyt-imperial,georgia,"times new roman";
+    margin-top: 10px;
+
+}
+
+.img-text span{
+    color: #666666;
+    font-family: nyt-imperial,georgia,"times new roman";
+    font-size: 15px;
+    margin: 0 7px 0 0;
+}
+
 
 
