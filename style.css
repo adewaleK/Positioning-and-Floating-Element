@@ -311,8 +311,29 @@ nav button{
     margin-top: 43px;
 }
 
+
 .base-paragraph{
-    
+    font-size: 12px;
+    color: #666666;
+    font-family: nyt-franklin,arial,helvetica,sans-serif;
+    margin-top: 20px;
+    line-height: 17px;
+
 }
 
+.base-paragraph a{
+    color: #666666;
+    border-right: 1px solid #666666;
+    padding: 0 3px;
+    text-decoration: underline;
+}
 
+.base-paragraph a:hover{
+    text-decoration: none;
+}
+
+.base-paragraph span:last-child a{
+    border-right: none;
+}
+
+  
