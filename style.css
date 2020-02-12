@@ -25,6 +25,10 @@ nav{
     
 }
 
+.logo-img{
+    margin-left: -100px;
+}
+
 .menu_item{
     margin-right: 18px;
 }
@@ -147,6 +151,18 @@ nav button{
     margin: 0 auto;
     padding: 5px;
 }
+
+.short-paragraph-box hr{
+    width: 70px;
+    margin: 20px auto;
+    background-color: 1px solid rgb(204, 204, 204);
+}
+
+.short-paragraph-box hr .bottom-line{
+    margin-bottom: 0;
+}
+
+
 
 .short-paragraph{
     text-align: center;
