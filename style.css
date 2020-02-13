@@ -316,10 +316,28 @@ color: #999;
     border-color: rgb(57, 91, 117);
     border-image: initial;
     border-radius: 4px;
-    padding: 10px;
+    padding: 10px 90px;
     margin: 0;
     cursor: pointer;
   }
+
+  .stat2{
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-evenly;
+}
+
+.stat p{
+    margin-top: 10px;
+}
+
+.stat2>div:nth-child(2){
+    margin-left: auto;
+}
+
+.stat2 img{
+    margin-right: 7px;
+}
   
   .article-btn:hover {
     background: rgb(69, 109, 139);
