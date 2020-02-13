@@ -504,4 +504,12 @@ footer {
     text-align: center;
   }
 
+.bottom-section{
+    width: 100%;
+    height: 500px;
+    border: 1px solid red;
+    margin: 0 auto;
+    margin-top: 5670px;
+}
+
 
