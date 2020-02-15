@@ -592,9 +592,7 @@ footer {
     display: grid;
     grid-template-columns: 1fr 4fr;
     grid-template-rows: 1fr 5fr 1fr;
-    
     height: 500px;
-    border: 1px solid red;
     margin: 0 auto;
     
 }
