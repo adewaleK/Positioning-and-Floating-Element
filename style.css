@@ -616,6 +616,20 @@ footer {
 
 .bottom-header{
     grid-column:1/3;
+    margin-top: 6px;
+}
+
+.bottom-header .home-link{
+    margin-top: 12px;
+    
+}
+
+.bottom-header a{
+    font-size: 11px;
+    color: #567B95;
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    text-decoration: none;
+
 }
 
 .bottom-footer{
