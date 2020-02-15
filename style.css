@@ -588,6 +588,12 @@ footer {
 
 }
 
+.main-footer-box{
+    width: 1200px;
+    margin:0 auto;
+    margin-top: 6800px;
+}
+
 .bottom-container{
     display: grid;
     grid-template-columns: 1fr 4fr;
