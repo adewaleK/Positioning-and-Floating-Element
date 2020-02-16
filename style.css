@@ -656,6 +656,22 @@ footer {
     padding-bottom: 10px;
 }
 
+.body-flex a{
+    text-transform: capitalize;
+    color: #000000;
+    font-size: 14px;
+    font-weight: 500;
+    height: 23px;
+    line-height: 23px;
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    text-decoration: none;
+}
+
+.body-flex a:hover{
+    
+    text-decoration: underline;
+}
+
 .body-flex>div{
     width: 197px;
 
