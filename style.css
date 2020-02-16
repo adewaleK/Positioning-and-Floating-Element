@@ -638,6 +638,11 @@ footer {
     text-transform: uppercase;
 }
 
+.subscribe-area{
+    border-left: 1px solid rgb(226, 226, 226);
+    padding-left: 12px;
+}
+
 .bottom-header a{
     font-size: 11px;
     color: #567B95;
