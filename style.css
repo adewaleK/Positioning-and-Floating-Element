@@ -624,6 +624,10 @@ footer {
     
 }
 
+.bottom-body{
+    margin-top: -22px;
+}
+
 .link-header{
     font-size:13px ;
     color: #333333;
