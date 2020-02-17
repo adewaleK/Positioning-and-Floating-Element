@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+
 footer,
 header,
 html,
@@ -14,6 +15,7 @@ h3,
 h4,
 h5,
 h6,
+
 p{       
     margin: 0;
     padding: 0;
@@ -81,6 +83,7 @@ nav {
 .nav_menu_items p a:hover{
     text-decoration: underline;
 }
+
 div {
     display: block;
 }
@@ -94,8 +97,26 @@ footer a{
     font-size: 11px;
   }
 
+.stat a:hover{
+    cursor: pointer;
+}
+
 .menu-bttons{
-    margin-right: 15px;
+    margin-top: 5px;
+    margin-right: 14px;
+}
+
+.menu-bttons a{
+    padding: 11px 12px 8px;
+    text-transform: uppercase;
+    font-size: 11px;
+    background: #567B95;
+    color:#FFFFFF;
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    border: none;
+    border-radius: 3px;
+    text-decoration: none;
+    margin-left: 3px;
 
 }
 
@@ -103,9 +124,8 @@ footer a{
     cursor: pointer;
 }
 
-.stat a:hover{
-    cursor: pointer;
-}
+
+
 
 nav button{
     padding: 11px 12px 8px;
@@ -135,7 +155,7 @@ nav button{
     color: #121212;
     font-family: nyt-cheltenham, georgia,"times new roman";
     font-style: italic;
-    font-weight:530;
+    font-weight: 500;
 }
 
 .img-desc{
@@ -206,12 +226,10 @@ nav button{
 .short-paragraph-box hr{
     width: 70px;
     margin: 20px auto;
-    background-color: 1px solid rgb(204, 204, 204);
+    background-color: rgb(204, 204, 204);
 }
 
-.short-paragraph-box hr .bottom-line{
-    margin-bottom: 0;
-}
+
 
 
 
@@ -262,7 +280,7 @@ nav button{
     color: #000000;
     font-size: 20px;
     font-family: nyt-cheltenham, georgia,"times new roman";
-    font-weight: 450;
+    font-weight: 400;
     margin-bottom: 5px;
 
 }
@@ -600,7 +618,16 @@ footer {
     font-family: nyt-franklin, helvetica, arial, sans-serif;
     font-size: 16px;
     font-weight: bold;
+    text-decoration: none;       
+}
+
+.space-content-heading2{
+    color: #000000;
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
     text-decoration: none;
+    margin-bottom: 14px;
     
 }
 
