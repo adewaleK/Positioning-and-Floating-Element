@@ -569,6 +569,17 @@ footer {
     text-decoration: none;
 }
 
+.main-text a{
+    color: #000000;
+    font-size: 18px;
+    font-family: nyt-cheltenham-sh, georgia,"times new roman";
+}
+
+.main-text a:hover{
+    color:#666666;
+
+}
+
 .right-margin{
     margin-right: 17px;
 }
