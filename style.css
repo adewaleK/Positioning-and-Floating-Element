@@ -759,8 +759,18 @@ footer {
     margin-right: 17px;
 }
 
+.right-nav div a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
 .isolate{
     margin-right: 9px;
+}
+
+.isolate a:hover{
+    text-decoration: underline;
+    cursor: pointer;
 }
 
 .user{
@@ -769,7 +779,7 @@ footer {
 
 }
 
-.editorial-box{
+aside{
     width: 210px;height: 321px;
     position: absolute;
     top: 1865px;
@@ -788,5 +798,27 @@ footer {
     letter-spacing: 0.02em;
     border-bottom: 1px solid rgb(226, 226, 226);
 
+}
+
+.editorial-item{
+    display: flex;
+    margin-bottom: 11px;
+}
+
+.editorial-text-block{
+    margin: 7px 0 0 8px;
+}
+
+.editorial-text-block p a{
+    font-family: nyt-cheltenham-small, georgia, "times new roman";
+    font-size: 14px;
+    line-height: 17px;
+    color: rgb(51, 51, 51);
+
+}
+
+.editorial-text-block p a:hover{
+    text-decoration: underline;
+    cursor: pointer;
 }
 
