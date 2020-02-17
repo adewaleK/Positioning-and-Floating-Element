@@ -50,24 +50,22 @@ nav {
     display: flex;
     justify-content: space-evenly;
     margin-left: 15px;
-    
 }
 
-
-.menu_item{
+.menu_item {
     margin-right: 18px;
 }
 
-.logo-img a:hover{
+.logo-img a:hover {
     cursor: pointer;
 }
 
 
-.nav_menu_items>div{
+.nav_menu_items>div {
     margin-right: 18px;
 }
 
-.nav_menu_items p a{
+.nav_menu_items p a {
     font-size: 14.25px;
     font-family: nyt-franklin,helvetica,arial,sans-serif;
     font-weight: 700;
@@ -78,14 +76,15 @@ nav {
     text-decoration: none;
 }
 
-.nav_menu_items p a:hover{
+.nav_menu_items p a:hover {
     text-decoration: underline;
 }
+
 div {
     display: block;
 }
 
-footer a{
+footer a {
     color: rgb(153, 153, 153);
     font-family: nyt-franklin, helvetica, arial, sans-serif;
     white-space: nowrap;
@@ -94,20 +93,19 @@ footer a{
     font-size: 11px;
   }
 
-.menu-bttons{
+.menu-bttons {
     margin-right: 15px;
-
 }
 
-.menu-bttons a:hover{
+.menu-bttons a:hover  {
     cursor: pointer;
 }
 
-.stat a:hover{
+.stat a:hover {
     cursor: pointer;
 }
 
-nav button{
+nav button {
     padding: 11px 12px 8px;
     text-transform: uppercase;
     font-size: 11px;
@@ -118,18 +116,19 @@ nav button{
     border-radius: 3px;
 }
 
-.middle-container{
+.middle-container {
     width: 945px;
     margin: 0 auto;
       
 }
 
-.intro{
+.intro {
     margin-left: 160px;
     margin-top: 85px;
     margin-bottom: 25px;
     
 }
+
 .intro p{
     font-size: 40px;
     color: #121212;
