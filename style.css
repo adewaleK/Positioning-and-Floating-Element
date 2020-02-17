@@ -53,9 +53,15 @@ nav {
     
 }
 
+
 .menu_item{
     margin-right: 18px;
 }
+
+.logo-img a:hover{
+    cursor: pointer;
+}
+
 
 .nav_menu_items>div{
     margin-right: 18px;
@@ -91,6 +97,14 @@ footer a{
 .menu-bttons{
     margin-right: 15px;
 
+}
+
+.menu-bttons a:hover{
+    cursor: pointer;
+}
+
+.stat a:hover{
+    cursor: pointer;
 }
 
 nav button{
@@ -327,6 +341,10 @@ color: #999;
     justify-content: space-evenly;
 }
 
+stat2 a:hover{
+    cursor: pointer;
+}
+
 .stat p{
     margin-top: 10px;
 }
@@ -406,6 +424,10 @@ color: #999;
 
 .more-space{
     margin-top: 37px;
+}
+
+.telescope-img{
+    cursor: pointer;
 }
 
 .telescope{
@@ -524,11 +546,27 @@ footer {
     margin-right: 75px;
 }
 
+.most-popular a{
+    text-decoration: none;
+    color: #121212;
+    font-size: 19px;
+    font-family: nyt-cheltenham-sh, georgia,"times new roman";
+}
+
+.space-line a:hover{
+    color:#666666;
+}
+
 .space-elements{
     float:left;
     width:272.63px;
     margin-bottom: 30px;
     
+}
+
+.space-elements a{
+    cursor: pointer;
+    text-decoration: none;
 }
 
 .right-margin{
@@ -542,11 +580,23 @@ footer {
 }
 
 .space-content-heading{
+    margin-bottom: 14px;
+
+}
+
+.space-content-heading a{
     color: #000000;
     font-family: nyt-franklin, helvetica, arial, sans-serif;
-    font-style: 16px;
+    font-size: 16px;
     font-weight: bold;
-    margin-bottom: 14px;
+    text-decoration: none;
+    
+}
+
+.space-content-heading a:hover{
+    
+    text-decoration: underline;
+    
 }
 
 .title-text{
@@ -803,6 +853,10 @@ aside{
 .editorial-item{
     display: flex;
     margin-bottom: 11px;
+}
+
+.editorial-item a:hover{
+    cursor: pointer;
 }
 
 .editorial-text-block{
