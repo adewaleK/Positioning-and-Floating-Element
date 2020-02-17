@@ -15,12 +15,7 @@ h3,
 h4,
 h5,
 h6,
-<<<<<<< HEAD
-
-p{       
-=======
 p {       
->>>>>>> b593a29d7dd18369a064f07327433949bc830ee0
     margin: 0;
     padding: 0;
     border: 0;
@@ -99,46 +94,17 @@ footer a {
     font-size: 11px;
   }
 
-<<<<<<< HEAD
-.stat a:hover{
-    cursor: pointer;
-}
-
-.menu-bttons{
-    margin-top: 5px;
-    margin-right: 14px;
-}
-
-.menu-bttons a{
-    padding: 11px 12px 8px;
-    text-transform: uppercase;
-    font-size: 11px;
-    background: #567B95;
-    color:#FFFFFF;
-    font-family: nyt-franklin,helvetica,arial,sans-serif;
-    border: none;
-    border-radius: 3px;
-    text-decoration: none;
-    margin-left: 3px;
-
-=======
 .menu-bttons {
     margin-right: 15px;
->>>>>>> b593a29d7dd18369a064f07327433949bc830ee0
 }
 
 .menu-bttons a:hover  {
     cursor: pointer;
 }
 
-<<<<<<< HEAD
-
-
-=======
 .stat a:hover {
     cursor: pointer;
 }
->>>>>>> b593a29d7dd18369a064f07327433949bc830ee0
 
 nav button {
     padding: 11px 12px 8px;
@@ -239,13 +205,9 @@ nav button {
     background-color: rgb(204, 204, 204);
 }
 
-<<<<<<< HEAD
-
-=======
 .short-paragraph-box hr .bottom-line {
     margin-bottom: 0;
 }
->>>>>>> b593a29d7dd18369a064f07327433949bc830ee0
 
 .short-paragraph {
     text-align: center;
@@ -547,22 +509,7 @@ footer {
     text-decoration: none;
 }
 
-<<<<<<< HEAD
-.main-text a{
-    color: #000000;
-    font-size: 18px;
-    font-family: nyt-cheltenham-sh, georgia,"times new roman";
-}
-
-.main-text a:hover{
-    color:#666666;
-
-}
-
-.right-margin{
-=======
 .right-margin {
->>>>>>> b593a29d7dd18369a064f07327433949bc830ee0
     margin-right: 17px;
 }
 
@@ -581,21 +528,7 @@ footer {
     font-family: nyt-franklin, helvetica, arial, sans-serif;
     font-size: 16px;
     font-weight: bold;
-<<<<<<< HEAD
-    text-decoration: none;       
-}
-
-.space-content-heading2{
-    color: #000000;
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
-    font-size: 16px;
-    font-weight: bold;
-    text-decoration: none;
-    margin-bottom: 14px;
-    
-=======
     text-decoration: none;   
->>>>>>> b593a29d7dd18369a064f07327433949bc830ee0
 }
 
 .space-content-heading a:hover {
