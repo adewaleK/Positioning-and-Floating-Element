@@ -643,6 +643,48 @@ footer {
     padding-left: 12px;
 }
 
+.subscribe-area-block{
+    margin-bottom: 15px;
+}
+
+
+.subscribe-flex{
+    display: flex;
+}
+
+.sub-text-box{
+    margin-top: -5px;
+    margin-left: 3px;
+}
+
+.subscribe-flex p a{
+    color:#000000;
+    font-size: 16px;
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    font-weight: 700;
+    height: 25px;
+    line-height: 30px;
+    text-transform: capitalize;
+}
+
+.sub-middle{
+   border-bottom: 1px solid rgb(226, 226, 226);
+   padding-bottom: 4px;
+}
+
+.sub-middle p a{
+    font-size: 11px;
+    color: #000000;
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    text-transform: capitalize;
+    line-height: 23px;
+}
+
+.border-padding{
+    border-bottom: none;
+    padding-top: 10px;
+}
+
 .bottom-header a{
     font-size: 11px;
     color: #567B95;
