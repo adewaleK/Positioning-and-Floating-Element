@@ -118,8 +118,7 @@ nav button {
 
 .middle-container {
     width: 945px;
-    margin: 0 auto;
-     
+    margin: 0 auto;  
 }
 
 .intro {
@@ -361,7 +360,6 @@ color: #999;
     width: 60px;
     background-color:#000000;
     margin-bottom: 15px;
-
 }
 
 .co-authors p {
@@ -383,8 +381,7 @@ color: #999;
     width: 600px;
     height: 300px;
     margin: 0 auto;
-    margin-top: 100px;
-    
+    margin-top: 100px;   
 }
 
 .cont iframe {
@@ -396,7 +393,6 @@ color: #999;
     color: #888888;
     font-family: nyt-imperial,georgia,"times new roman";
     margin-top: 10px;
-
 }
 
 .img-text span {
@@ -545,7 +541,6 @@ footer {
     margin-top: 2px;
     margin-bottom: 8px;
     font-weight: bold;
-
 }
 
 .main-text {
@@ -553,7 +548,6 @@ footer {
     color: #121212;
     font-family: nyt-franklin, helvetica, arial, sans-serif;
     font-weight: 500;
-
 }
 
 .date {
