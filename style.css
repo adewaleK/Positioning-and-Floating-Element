@@ -732,3 +732,61 @@ footer {
     margin-left: auto;
 }
 
+.final-nav{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    margin-top: 10px;
+
+}
+
+.final-nav div a{
+    color: #666;
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    padding:10px 0;
+    text-decoration: none;
+    font-size: 11px;
+   
+    
+}
+
+.right-nav{
+    display: flex;
+    
+}
+
+.right-nav div a{
+    margin-right: 17px;
+}
+
+.isolate{
+    margin-right: 9px;
+}
+
+.user{
+    border-top: 1px solid #000000;
+    margin-top: -55px;
+
+}
+
+.editorial-box{
+    width: 210px;height: 321px;
+    position: absolute;
+    top: 1865px;
+    left: 1045px;
+}
+
+.editorial-title{
+    font-size: 14px;
+    color: #000000;
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    font-weight: 700;
+    margin-bottom: 15px;
+    padding-bottom: 12px;
+    font-size: 14px;
+    line-height: 14px;
+    letter-spacing: 0.02em;
+    border-bottom: 1px solid rgb(226, 226, 226);
+
+}
+
