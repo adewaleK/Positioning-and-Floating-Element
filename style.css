@@ -559,17 +559,14 @@ footer {
 }
 
 .main-text a:hover {
-
     color: #666;
-
 }
 
 .right-margin {
-	margin-right: 17px;	
+	margin-right: 17px;
 }
 
-.space-line hr {		
-
+.space-line hr {
 	margin-bottom: 20px;
 	width: 100%;
     background-color: #000000;
@@ -593,7 +590,6 @@ footer {
 
 	text-decoration: underline;	
 }
-
 
 .title-text {
 
