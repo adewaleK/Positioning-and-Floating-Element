@@ -47,6 +47,22 @@ footer a {
 	font-size: 11px;
 }
 
+
+.space-content-heading2 {
+	color: #000000;
+	font-family: nyt-franklin, helvetica, arial, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+	margin-bottom: 14px;
+}
+
+.main-text a {
+	color: #000000;
+	font-size: 18px;
+	font-family: nyt-cheltenham-sh, georgia, "times new roman";
+}
+
 .nav_menu_items {
 	display: flex;
 	margin-left: 15px;
@@ -99,9 +115,10 @@ div {
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
 	border: none;
     border-radius: 3px;
-	text-decoration: none;}
+	text-decoration: none;
+}
 	
-	.menu-bttons a:hover {
+.menu-bttons a:hover {
 
     cursor: pointer;
 }
@@ -188,11 +205,15 @@ div {
 .short-paragraph-box {
 	margin: 0 auto;
 	padding: 5px;
-}.short-paragraph-box hr {
+}
+
+.short-paragraph-box hr {
 	width: 70px;
 	margin: 20px auto;
     background-color: rgb(204, 204, 204);
-}.short-paragraph {
+}
+
+.short-paragraph {
 	text-align: center;
 	font-size: 15px;
 	color: #333333;
@@ -530,10 +551,6 @@ footer {
 .space-elements a {
 	cursor: pointer;
 	text-decoration: none;
-}.main-text a {
-	color: #000000;
-	font-size: 18px;
-	font-family: nyt-cheltenham-sh, georgia, "times new roman";
 }
 
 .main-text a:hover {
@@ -555,20 +572,16 @@ footer {
 .space-content-heading {
 
     margin-bottom: 14px;
-}.space-content-heading a {
+}
+
+.space-content-heading a {
 
 	color: #000000;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
 	font-size: 16px;
 	font-weight: bold;
 	text-decoration: none;
-}.space-content-heading2 {
-	color: #000000;
-	font-family: nyt-franklin, helvetica, arial, sans-serif;
-	font-size: 16px;
-	font-weight: bold;
-	text-decoration: none;
-	margin-bottom: 14px;}
+}
 
 .space-content-heading a:hover {
 
