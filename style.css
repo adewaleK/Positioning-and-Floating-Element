@@ -72,7 +72,6 @@ footer a {
 }
 
 .logo-img a:hover {
-
 	cursor: pointer;
 }
 
@@ -116,10 +115,8 @@ div {
 }
 	
 .menu-bttons a:hover {
-
     cursor: pointer;
 }
-
 
 .stat {
 	display: flex;
@@ -453,7 +450,6 @@ div {
 	display: inline-block;
 	padding: 10px;
 	background: #eee;
-
 	border-radius: 80px;
 	text-align: center;
 	margin: 0 5px 0 0;
@@ -525,7 +521,6 @@ footer {
 }
 
 .most-popular {
-
 	width: 315px;
 	height: 39px;
 	float: right;
@@ -533,7 +528,6 @@ footer {
 }
 
 .most-popular a {
-
 	text-decoration: none;
 	color: #121212;
 	font-size: 19px;
@@ -575,7 +569,6 @@ footer {
 }
 
 .space-content-heading a {
-
 	color: #000;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
 	font-size: 16px;
@@ -588,7 +581,6 @@ footer {
 }
 
 .title-text {
-
 	font-size: 10px;
 	float: right;
 	color: #999;
@@ -598,7 +590,6 @@ footer {
 }
 
 .main-text {
-
 	font-size: 16px;
 	color: #121212;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
@@ -606,7 +597,6 @@ footer {
 }
 
 .date {
-
 	font-size: 12px;
 	color: #999;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
@@ -614,12 +604,10 @@ footer {
 }
 
 .clear {
-
     clear: both;
 }
 
 .popular-text {
-
 	color: #121212;
 	font-size: 19px;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
@@ -628,20 +616,17 @@ footer {
 }
 
 .main-footer-box {
-
 	width: 1200px;
 	margin: 0 auto;
     margin-top: 6770px;
 }
 
 .line1 {
-
 	background-color: rgb(226, 226, 226);
 	height: 1.5px;
 }
 
 .line2 {
-
 	background-color: rgb(226, 226, 226);
 	height: 1.2px;
 	margin-bottom: -4px;
@@ -649,14 +634,12 @@ footer {
 }
 
 .bottom-container {
-
 	display: grid;
 	height: 500px;
 	margin: 0 auto;
 }
 
 .bottom-header {
-
 	grid-column: 1/3;
 	margin-top: 6px;
 	border-top: 1px solid rgb(226, 226, 226);
@@ -664,17 +647,14 @@ footer {
 }
 
 .bottom-header .home-link {
-
     margin-top: 12px;
 }
 
 .bottom-body {
-
     margin-top: -22px;
 }
 
 .link-header {
-
 	font-size: 13px;
 	color: #333;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
@@ -685,29 +665,24 @@ footer {
 }
 
 .subscribe-area {
-
 	border-left: 1px solid rgb(226, 226, 226);
     padding-left: 12px;
 }
 
 .subscribe-area-block {
-
     margin-bottom: 15px;
 }
 
 .subscribe-flex {
-
     display: flex;
 }
 
 .sub-text-box {
-
 	margin-top: -5px;
     margin-left: 3px;
 }
 
 .subscribe-flex p a {
-
 	color: #000;
 	font-size: 16px;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
@@ -718,13 +693,11 @@ footer {
 }
 
 .sub-middle {
-
 	border-bottom: 1px solid rgb(226, 226, 226);
     padding-bottom: 4px;
 }
 
 .sub-middle p a {
-
 	font-size: 11px;
 	color: #000;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
@@ -733,7 +706,6 @@ footer {
 }
 
 .border-padding {
-
 	border-bottom: none;
     padding-top: 10px;
 }
@@ -746,12 +718,10 @@ footer {
 }
 
 .bottom-footer {
-
     grid-column: 1/3;
 }
 
 .body-flex {
-
 	display: flex;
 	border-bottom: 1px solid rgb(226, 226, 226);
 	padding-bottom: 10px;
@@ -759,7 +729,6 @@ footer {
 }
 
 .body-flex a {
-
 	text-transform: capitalize;
 	color: #000;
 	font-size: 14px;
@@ -771,17 +740,14 @@ footer {
 }
 
 .body-flex a:hover {
-
     text-decoration: underline;
 }
 
 .body-flex>div {
-
     width: 197px;
 }
 
 .bottom-header {
-
     display: flex;
 }
 
@@ -790,7 +756,6 @@ footer {
 }
 
 .final-nav {
-
 	display: flex;
 	margin: 0 auto;
 	justify-content: center;
@@ -798,7 +763,6 @@ footer {
 }
 
 .final-nav div a {
-
 	color: #666;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
 	padding: 10px 0;
@@ -807,40 +771,33 @@ footer {
 }
 
 .right-nav {
-
     display: flex;
 }
 
 .right-nav div a {
-
     margin-right: 17px;
 }
 
 .right-nav div a:hover {
-
 	text-decoration: underline;
     cursor: pointer;
 }
 
 .isolate {
-
     margin-right: 9px;
 }
 
 .isolate a:hover {
-
 	text-decoration: underline;
     cursor: pointer;
 }
 
 .user {
-
 	border-top: 1px solid #000;
     margin-top: -55px;
 }
 
 aside {
-
 	width: 210px;
 	height: 321px;
 	position: absolute;
@@ -849,7 +806,6 @@ aside {
 }
 
 .editorial-title {
-
 	font-size: 14px;
 	color: #000;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
@@ -862,7 +818,6 @@ aside {
 }
 
 .editorial-item {
-
 	display: flex;
     margin-bottom: 11px;
 }
