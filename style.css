@@ -6,16 +6,7 @@ article,
 h1,
 h2,
 h3,
-h4,
-<<<<<<< HEAD
-h5,h6,
-p {
-
-=======
-h5,
-h6,
-p {       
->>>>>>> 83b93106fa6c67cd71b0b61c964ef228df4c1da1
+h4,h5,h6,p {
     margin: 0;
 	padding: 0;
 	border: 0;
@@ -84,10 +75,7 @@ nav {
 
 div {
 	display: block;
-}
-
-footer a {
-<<<<<<< HEAD
+}footer a {
 	color: rgb(153, 153, 153);
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
 	white-space: nowrap;
@@ -108,29 +96,15 @@ footer a {
 	color: #FFFFFF;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
 	border: none;
-    border-radius: 3px;  
-  
-    text-decoration: none;
-=======
-    color: rgb(153, 153, 153);
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
-    white-space: nowrap;
-    padding: 10px 0;
-    text-decoration: none;
-    font-size: 11px;
-  }
-
-.menu-bttons {
-    margin-right: 15px;
->>>>>>> 83b93106fa6c67cd71b0b61c964ef228df4c1da1
-}
-
-.menu-bttons a:hover {
+    border-radius: 3px;
+	text-decoration: none;}
+	
+	.menu-bttons a:hover {
 
     cursor: pointer;
 }
 
-<<<<<<< HEAD
+
 .stat {
 	display: flex;
 	margin-top: 20px;
@@ -139,13 +113,9 @@ footer a {
 .stat p {
 	margin-top: 10px;
 }
+
 .stat > div:nth-child(2) {
- margin-left: auto;
-=======
-.stat a:hover {
-    cursor: pointer;
->>>>>>> 83b93106fa6c67cd71b0b61c964ef228df4c1da1
-}
+ margin-left: auto;}
 
 
 .stat img {
@@ -153,8 +123,8 @@ footer a {
 }
 
 .stat a:hover {
-    cursor: pointer; 
-}	
+    cursor: pointer;
+}
 .middle-container {
 	width: 945px;
 	margin: 0 auto;}
@@ -214,37 +184,16 @@ footer a {
 .short-paragraph-box {
 	margin: 0 auto;
 	padding: 5px;
-}
-
-.short-paragraph-box hr {
-<<<<<<< HEAD
+}.short-paragraph-box hr {
 	width: 70px;
 	margin: 20px auto;
-    background-color: rgb(204, 204, 204);   
+    background-color: rgb(204, 204, 204);
 }.short-paragraph {
 	text-align: center;
 	font-size: 15px;
 	color: #333333;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
-=======
-    width: 70px;
-    margin: 20px auto;
-    background-color: rgb(204, 204, 204);
-}
-
-.short-paragraph-box hr .bottom-line {
-    margin-bottom: 0;
-}
-
-.short-paragraph {
-    text-align: center;
-    font-size: 15px;
-    color: #333333; 
-    font-family: nyt-franklin,helvetica,arial,sans-serif;
->>>>>>> 83b93106fa6c67cd71b0b61c964ef228df4c1da1
-    font-weight: bold;
-    
-}
+	font-weight: bold;}
 
 .short-paragraph a {
 	text-align: center;
@@ -313,7 +262,7 @@ footer a {
 	margin-top: 150px;
 	width: 228px;
 	height: 120px;
-	
+
 }
 
 .features>div p {
@@ -556,7 +505,7 @@ footer {
 	height: 39px;
 	float: right;
     margin-right: 75px;
-    
+
 }
 
 .most-popular a {
@@ -565,13 +514,13 @@ footer {
 	color: #121212;
 	font-size: 19px;
     font-family: nyt-cheltenham-sh, georgia, "times new roman";
-    
+
 }
 
 .space-line a:hover {
 
     color: #666666;
-    
+
 }
 
 .space-elements {
@@ -583,10 +532,7 @@ footer {
 .space-elements a {
 	cursor: pointer;
 	text-decoration: none;
-}
-
-<<<<<<< HEAD
-.main-text a {
+}.main-text a {
 	color: #000000;
 	font-size: 18px;
 	font-family: nyt-cheltenham-sh, georgia, "times new roman";
@@ -595,17 +541,10 @@ footer {
 .main-text a:hover {
 
     color: #666666;
-    
-}
 
-
-.right-margin {
-
-=======
-.right-margin {
->>>>>>> 83b93106fa6c67cd71b0b61c964ef228df4c1da1
-    margin-right: 17px;
-    
+}.right-margin {
+	margin-right: 17px;
+	
 }
 
 .space-line hr {
@@ -613,49 +552,32 @@ footer {
 	margin-bottom: 20px;
 	width: 100%;
     background-color: #000000;
-    
+
 }
 
 .space-content-heading {
 
     margin-bottom: 14px;
-    
-}
 
-.space-content-heading a {
-<<<<<<< HEAD
-
-	color: #000000;
-	font-family: nyt-franklin, helvetica, arial, sans-serif;
-	font-size: 16px;
-	font-weight: bold;
-    text-decoration: none;
-    
-}
-
-.space-content-heading2 {
+}.space-content-heading a {
 
 	color: #000000;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
 	font-size: 16px;
 	font-weight: bold;
 	text-decoration: none;
-    margin-bottom: 14px;
-    
-
-=======
-    color: #000000;
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
-    font-size: 16px;
-    font-weight: bold;
-    text-decoration: none;   
->>>>>>> 83b93106fa6c67cd71b0b61c964ef228df4c1da1
-}
+}.space-content-heading2 {
+	color: #000000;
+	font-family: nyt-franklin, helvetica, arial, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+	margin-bottom: 14px;}
 
 .space-content-heading a:hover {
 
-    text-decoration: underline;
-    
+	text-decoration: underline;
+	
 }
 
 .title-text {
@@ -666,7 +588,7 @@ footer {
 	margin-top: 2px;
 	margin-bottom: 8px;
     font-weight: bold;
-    
+
 }
 
 .main-text {
@@ -675,7 +597,7 @@ footer {
 	color: #121212;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
     font-weight: 500;
-    
+
 }
 
 .date {
@@ -684,13 +606,13 @@ footer {
 	color: #999999;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
     margin-top: 8px;
-    
+
 }
 
 .clear {
 
     clear: both;
-    
+
 }
 
 .popular-text {
@@ -700,7 +622,7 @@ footer {
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
 	border-top: 1px solid rgb(226, 226, 226);
     padding: 12px 0;
-    
+
 }
 
 .main-footer-box {
@@ -708,23 +630,23 @@ footer {
 	width: 1200px;
 	margin: 0 auto;
     margin-top: 6770px;
-    
+
 }
 
 .line1 {
 
 	background-color: rgb(226, 226, 226);
-	height: 1.5px;   
-    
+	height: 1.5px;
+
 }
 
 .line2 {
 
 	background-color: rgb(226, 226, 226);
-	height: 1.2px;  
+	height: 1.2px;
 	margin-bottom: -4px;
 	margin-top: 0;
-    
+
 }
 
 .bottom-container {
@@ -732,7 +654,7 @@ footer {
 	display: grid;
 	height: 500px;
 	margin: 0 auto;
-    
+
 }
 
 .bottom-header {
@@ -741,19 +663,19 @@ footer {
 	margin-top: 6px;
 	border-top: 1px solid rgb(226, 226, 226);
 	padding-top: 5px;
-    
+
 }
 
 .bottom-header .home-link {
 
     margin-top: 12px;
-    
+
 }
 
 .bottom-body {
 
     margin-top: -22px;
-    
+
 }
 
 .link-header {
@@ -765,33 +687,33 @@ footer {
 	height: 25px;
 	line-height: 15px;
     text-transform: uppercase;
-    
+
 }
 
 .subscribe-area {
 
 	border-left: 1px solid rgb(226, 226, 226);
     padding-left: 12px;
-    
+
 }
 
 .subscribe-area-block {
 
     margin-bottom: 15px;
-    
+
 }
 
 .subscribe-flex {
 
     display: flex;
-    
+
 }
 
 .sub-text-box {
 
 	margin-top: -5px;
     margin-left: 3px;
-    
+
 }
 
 .subscribe-flex p a {
@@ -803,14 +725,14 @@ footer {
 	height: 25px;
 	line-height: 30px;
     text-transform: capitalize;
-    
+
 }
 
 .sub-middle {
 
 	border-bottom: 1px solid rgb(226, 226, 226);
     padding-bottom: 4px;
-    
+
 }
 
 .sub-middle p a {
@@ -820,14 +742,14 @@ footer {
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
 	text-transform: capitalize;
     line-height: 23px;
-    
+
 }
 
 .border-padding {
 
 	border-bottom: none;
     padding-top: 10px;
-    
+
 }
 
 .bottom-header a {
@@ -836,13 +758,13 @@ footer {
 	color: #567B95;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
     text-decoration: none;
-    
+
 }
 
 .bottom-footer {
 
     grid-column: 1/3;
-    
+
 }
 
 .body-flex {
@@ -851,7 +773,7 @@ footer {
 	border-bottom: 1px solid rgb(226, 226, 226);
 	padding-bottom: 10px;
 	margin-top: -40px;
-    
+
 }
 
 .body-flex a {
@@ -864,25 +786,25 @@ footer {
 	line-height: 23px;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
     text-decoration: none;
-    
+
 }
 
 .body-flex a:hover {
 
     text-decoration: underline;
-    
+
 }
 
 .body-flex>div {
 
     width: 197px;
-    
+
 }
 
 .bottom-header {
 
     display: flex;
-    
+
 }
 
 .bottom-header>div:nth-child(2) {
@@ -895,7 +817,7 @@ footer {
 	margin: 0 auto;
 	justify-content: center;
     margin-top: 10px;
-    
+
 }
 
 .final-nav div a {
@@ -905,46 +827,46 @@ footer {
 	padding: 10px 0;
 	text-decoration: none;
     font-size: 11px;
-    
+
 }
 
 .right-nav {
 
     display: flex;
-    
+
 }
 
 .right-nav div a {
 
     margin-right: 17px;
-    
+
 }
 
 .right-nav div a:hover {
 
 	text-decoration: underline;
     cursor: pointer;
-    
+
 }
 
 .isolate {
 
     margin-right: 9px;
-    
+
 }
 
 .isolate a:hover {
 
 	text-decoration: underline;
     cursor: pointer;
-    
+
 }
 
 .user {
 
 	border-top: 1px solid #000000;
     margin-top: -55px;
-    
+
 }
 
 aside {
@@ -954,7 +876,7 @@ aside {
 	position: absolute;
 	top: 1865px;
     left: 1045px;
-    
+
 }
 
 .editorial-title {
@@ -968,14 +890,14 @@ aside {
 	line-height: 14px;
 	letter-spacing: 0.02em;
     border-bottom: 1px solid rgb(226, 226, 226);
-    
+
 }
 
 .editorial-item {
 
 	display: flex;
     margin-bottom: 11px;
-    
+
 }
 
 .editorial-item a:hover {
@@ -987,7 +909,7 @@ aside {
 .editorial-text-block {
 
     margin: 7px 0 0 8px;
-    
+
 }
 
 .editorial-text-block p a {
@@ -995,7 +917,7 @@ aside {
 	font-family: nyt-cheltenham-small, georgia, "times new roman";
 	font-size: 14px;
 	line-height: 17px;
-    color: rgb(51, 51, 51);  
+    color: rgb(51, 51, 51);
 }
 
 .editorial-text-block p a:hover {
