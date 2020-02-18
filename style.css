@@ -262,7 +262,6 @@ div {
 	margin-top: 150px;
 	width: 228px;
 	height: 120px;
-
 }
 
 .features>div p {
@@ -298,7 +297,6 @@ div {
 .stat2 {
 	display: flex;
 	margin-top: 10px;
-
 }
 
 .stat2 a:hover {
@@ -505,7 +503,6 @@ footer {
 	height: 39px;
 	float: right;
     margin-right: 75px;
-
 }
 
 .most-popular a {
@@ -514,13 +511,10 @@ footer {
 	color: #121212;
 	font-size: 19px;
     font-family: nyt-cheltenham-sh, georgia, "times new roman";
-
 }
 
 .space-line a:hover {
-
     color: #666666;
-
 }
 
 .space-elements {
@@ -552,13 +546,11 @@ footer {
 	margin-bottom: 20px;
 	width: 100%;
     background-color: #000000;
-
 }
 
 .space-content-heading {
 
     margin-bottom: 14px;
-
 }.space-content-heading a {
 
 	color: #000000;
