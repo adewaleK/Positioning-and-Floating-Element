@@ -23,7 +23,7 @@ section {
 }
 
 .container {
-	background-color: #FFFFFF;
+	background-color: #fff;
 }
 
 nav {
@@ -31,10 +31,10 @@ nav {
 	justify-content: space-between;
 	padding-top: 7px;
 
-	border-bottom: 1px solid #E2E2E2;
+	border-bottom: 1px solid #e2e2e2;
 	position: fixed;
 	width: 100%;
-	background-color: #FFFFFF;
+	background-color: #fff;
 	margin-top: -85px;
 }
 
@@ -49,7 +49,7 @@ footer a {
 
 
 .space-content-heading2 {
-	color: #000000;
+	color: #000;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
 	font-size: 16px;
 	font-weight: bold;
@@ -58,7 +58,7 @@ footer a {
 }
 
 .main-text a {
-	color: #000000;
+	color: #000;
 	font-size: 18px;
 	font-family: nyt-cheltenham-sh, georgia, "times new roman";
 }
@@ -90,7 +90,7 @@ footer a {
 	text-transform: uppercase;
 	margin-left: 5px;
 	margin-top: 2px;
-	color: #000000;
+	color: #000;
 	text-decoration: none;
 }
 
@@ -110,8 +110,8 @@ div {
 	padding: 11px 12px 8px;
 	text-transform: uppercase;
 	font-size: 11px;
-	background: #567B95;
-	color: #FFFFFF;
+	background: #567b95;
+	color: #fff;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
 	border: none;
     border-radius: 3px;
@@ -168,7 +168,7 @@ div {
 .img-desc {
 	width: 720px;
 	font-size: 15px;
-	color: #666666;
+	color: #666;
 	font-family: nyt-imperial, georgia, "times new roman";
 	margin-top: 7px;
 }
@@ -184,14 +184,14 @@ div {
 .author {
 	font-size: 15px;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
-	color: #333333;
+	color: #333;
 	font-weight: bold;
 }
 
 .author a {
 	font-size: 15px;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
-	color: #333333;
+	color: #333;
 }
 
 .author a:hover {
@@ -201,7 +201,7 @@ div {
 .main-paragraph {
 	font-size: 20px;
 	font-family: nyt-imperial, georgia, "times new roman";
-	color: #333333;
+	color: #333;
 	line-height: 1.5;
 	margin-top: 20px;
 }
@@ -220,7 +220,7 @@ div {
 .short-paragraph {
 	text-align: center;
 	font-size: 15px;
-	color: #333333;
+	color: #333;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
 	font-weight: bold;
 }
@@ -236,7 +236,7 @@ div {
 
 .special-paragraph {
 	font-size: 20px;
-	color: #333333;
+	color: #333;
 	font-family: nyt-imperial, georgia, "times new roman";
 	font-weight: bold;
 	margin: 20px 0;
@@ -259,7 +259,7 @@ div {
 }
 
 .top-container .first-top {
-	color: #000000;
+	color: #000;
 	font-size: 20px;
 	font-family: nyt-cheltenham, georgia, "times new roman";
 	font-weight: 400;
@@ -267,7 +267,7 @@ div {
 }
 
 .top-container .second-top {
-	color: #666666;
+	color: #666;
 	font-size: 14px;
 	font-family: nyt-cheltenha	m-sh, georgia, "times new roman";
 }
@@ -295,7 +295,7 @@ div {
 }
 
 .features>div p {
-	color: #000000;
+	color: #000;
 	font-size: 14px;
 	font-family: nyt-franklin, arial, helvetica, sans-serif;
 	line-height: 17px;
@@ -352,7 +352,7 @@ div {
 .features span {
 	font-size: 11px;
 	font-weight: 800;
-	color: #000000;
+	color: #000;
 	font-family: nyt-franklin, arial, helvetica, sans-serif;
 }
 
@@ -363,12 +363,12 @@ div {
 .co-authors hr {
 	margin-top: 40px;
 	width: 60px;
-	background-color: #000000;
+	background-color: #000;
 	margin-bottom: 15px;
 }
 
 .co-authors p {
-	color: #333333;
+	color: #333;
 	font-size: 14px;
 	font-family: nyt-franklin, arial, helvetica, sans-serif;
 	line-height: 1.125rem;
@@ -395,7 +395,7 @@ div {
 
 .img-text {
 	font-size: 13px;
-	color: #888888;
+	color: #888;
 	font-family: nyt-imperial, georgia, "times new roman";
 	margin-top: 10px;
 }
@@ -587,8 +587,7 @@ footer {
 }
 
 .space-content-heading a:hover {
-
-	text-decoration: underline;	
+	text-decoration: underline;
 }
 
 .title-text {
@@ -743,9 +742,8 @@ footer {
 }
 
 .bottom-header a {
-
 	font-size: 11px;
-	color: #567B95;
+	color: #567b95;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
     text-decoration: none;
 }
@@ -873,17 +871,14 @@ aside {
 }
 
 .editorial-item a:hover {
-
-    cursor: pointer; 
+    cursor: pointer;
 }
 
 .editorial-text-block {
-
     margin: 7px 0 0 8px;
 }
 
 .editorial-text-block p a {
-
 	font-family: nyt-cheltenham-small, georgia, "times new roman";
 	font-size: 14px;
 	line-height: 17px;
@@ -892,4 +887,5 @@ aside {
 
 .editorial-text-block p a:hover {
     text-decoration: underline;
-    cursor: pointer;  }
+    cursor: pointer;
+}
