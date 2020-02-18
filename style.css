@@ -622,7 +622,6 @@ footer {
 
 	background-color: rgb(226, 226, 226);
 	height: 1.5px;
-
 }
 
 .line2 {
@@ -631,7 +630,6 @@ footer {
 	height: 1.2px;
 	margin-bottom: -4px;
 	margin-top: 0;
-
 }
 
 .bottom-container {
@@ -639,7 +637,6 @@ footer {
 	display: grid;
 	height: 500px;
 	margin: 0 auto;
-
 }
 
 .bottom-header {
@@ -648,7 +645,6 @@ footer {
 	margin-top: 6px;
 	border-top: 1px solid rgb(226, 226, 226);
 	padding-top: 5px;
-
 }
 
 .bottom-header .home-link {
@@ -660,7 +656,6 @@ footer {
 .bottom-body {
 
     margin-top: -22px;
-
 }
 
 .link-header {
@@ -672,33 +667,28 @@ footer {
 	height: 25px;
 	line-height: 15px;
     text-transform: uppercase;
-
 }
 
 .subscribe-area {
 
 	border-left: 1px solid rgb(226, 226, 226);
     padding-left: 12px;
-
 }
 
 .subscribe-area-block {
 
     margin-bottom: 15px;
-
 }
 
 .subscribe-flex {
 
     display: flex;
-
 }
 
 .sub-text-box {
 
 	margin-top: -5px;
     margin-left: 3px;
-
 }
 
 .subscribe-flex p a {
@@ -710,14 +700,12 @@ footer {
 	height: 25px;
 	line-height: 30px;
     text-transform: capitalize;
-
 }
 
 .sub-middle {
 
 	border-bottom: 1px solid rgb(226, 226, 226);
     padding-bottom: 4px;
-
 }
 
 .sub-middle p a {
@@ -727,14 +715,12 @@ footer {
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
 	text-transform: capitalize;
     line-height: 23px;
-
 }
 
 .border-padding {
 
 	border-bottom: none;
     padding-top: 10px;
-
 }
 
 .bottom-header a {
@@ -743,13 +729,11 @@ footer {
 	color: #567B95;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
     text-decoration: none;
-
 }
 
 .bottom-footer {
 
     grid-column: 1/3;
-
 }
 
 .body-flex {
@@ -758,7 +742,6 @@ footer {
 	border-bottom: 1px solid rgb(226, 226, 226);
 	padding-bottom: 10px;
 	margin-top: -40px;
-
 }
 
 .body-flex a {
@@ -771,25 +754,21 @@ footer {
 	line-height: 23px;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
     text-decoration: none;
-
 }
 
 .body-flex a:hover {
 
     text-decoration: underline;
-
 }
 
 .body-flex>div {
 
     width: 197px;
-
 }
 
 .bottom-header {
 
     display: flex;
-
 }
 
 .bottom-header>div:nth-child(2) {
@@ -802,7 +781,6 @@ footer {
 	margin: 0 auto;
 	justify-content: center;
     margin-top: 10px;
-
 }
 
 .final-nav div a {
@@ -812,46 +790,39 @@ footer {
 	padding: 10px 0;
 	text-decoration: none;
     font-size: 11px;
-
 }
 
 .right-nav {
 
     display: flex;
-
 }
 
 .right-nav div a {
 
     margin-right: 17px;
-
 }
 
 .right-nav div a:hover {
 
 	text-decoration: underline;
     cursor: pointer;
-
 }
 
 .isolate {
 
     margin-right: 9px;
-
 }
 
 .isolate a:hover {
 
 	text-decoration: underline;
     cursor: pointer;
-
 }
 
 .user {
 
 	border-top: 1px solid #000000;
     margin-top: -55px;
-
 }
 
 aside {
@@ -861,7 +832,6 @@ aside {
 	position: absolute;
 	top: 1865px;
     left: 1045px;
-
 }
 
 .editorial-title {
@@ -875,26 +845,22 @@ aside {
 	line-height: 14px;
 	letter-spacing: 0.02em;
     border-bottom: 1px solid rgb(226, 226, 226);
-
 }
 
 .editorial-item {
 
 	display: flex;
     margin-bottom: 11px;
-
 }
 
 .editorial-item a:hover {
 
-    cursor: pointer;
-    
+    cursor: pointer; 
 }
 
 .editorial-text-block {
 
     margin: 7px 0 0 8px;
-
 }
 
 .editorial-text-block p a {
