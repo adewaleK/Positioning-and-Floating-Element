@@ -7,9 +7,15 @@ h1,
 h2,
 h3,
 h4,
+<<<<<<< HEAD
 h5,h6,
 p {
 
+=======
+h5,
+h6,
+p {       
+>>>>>>> 83b93106fa6c67cd71b0b61c964ef228df4c1da1
     margin: 0;
 	padding: 0;
 	border: 0;
@@ -81,6 +87,7 @@ div {
 }
 
 footer a {
+<<<<<<< HEAD
 	color: rgb(153, 153, 153);
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
 	white-space: nowrap;
@@ -104,6 +111,18 @@ footer a {
     border-radius: 3px;  
   
     text-decoration: none;
+=======
+    color: rgb(153, 153, 153);
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    white-space: nowrap;
+    padding: 10px 0;
+    text-decoration: none;
+    font-size: 11px;
+  }
+
+.menu-bttons {
+    margin-right: 15px;
+>>>>>>> 83b93106fa6c67cd71b0b61c964ef228df4c1da1
 }
 
 .menu-bttons a:hover {
@@ -111,6 +130,7 @@ footer a {
     cursor: pointer;
 }
 
+<<<<<<< HEAD
 .stat {
 	display: flex;
 	margin-top: 20px;
@@ -121,6 +141,10 @@ footer a {
 }
 .stat > div:nth-child(2) {
  margin-left: auto;
+=======
+.stat a:hover {
+    cursor: pointer;
+>>>>>>> 83b93106fa6c67cd71b0b61c964ef228df4c1da1
 }
 
 
@@ -193,6 +217,7 @@ footer a {
 }
 
 .short-paragraph-box hr {
+<<<<<<< HEAD
 	width: 70px;
 	margin: 20px auto;
     background-color: rgb(204, 204, 204);   
@@ -201,6 +226,22 @@ footer a {
 	font-size: 15px;
 	color: #333333;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
+=======
+    width: 70px;
+    margin: 20px auto;
+    background-color: rgb(204, 204, 204);
+}
+
+.short-paragraph-box hr .bottom-line {
+    margin-bottom: 0;
+}
+
+.short-paragraph {
+    text-align: center;
+    font-size: 15px;
+    color: #333333; 
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+>>>>>>> 83b93106fa6c67cd71b0b61c964ef228df4c1da1
     font-weight: bold;
     
 }
@@ -544,6 +585,7 @@ footer {
 	text-decoration: none;
 }
 
+<<<<<<< HEAD
 .main-text a {
 	color: #000000;
 	font-size: 18px;
@@ -559,6 +601,9 @@ footer {
 
 .right-margin {
 
+=======
+.right-margin {
+>>>>>>> 83b93106fa6c67cd71b0b61c964ef228df4c1da1
     margin-right: 17px;
     
 }
@@ -578,6 +623,7 @@ footer {
 }
 
 .space-content-heading a {
+<<<<<<< HEAD
 
 	color: #000000;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
@@ -597,6 +643,13 @@ footer {
     margin-bottom: 14px;
     
 
+=======
+    color: #000000;
+    font-family: nyt-franklin, helvetica, arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;   
+>>>>>>> 83b93106fa6c67cd71b0b61c964ef228df4c1da1
 }
 
 .space-content-heading a:hover {
