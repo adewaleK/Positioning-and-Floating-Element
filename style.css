@@ -532,7 +532,7 @@ footer {
   text-decoration: none;
   color: #121212;
   font-size: 19px;
-  font-family: nyt-cheltenham-sh, georgia, "times new roman";
+  font-family: nyt-cheltenham-sh, georgia, Georgia, 'Times New Roman', Times, serif;
 }
 
 .space-line a:hover {
