@@ -62,7 +62,7 @@ footer a {
 .main-text a {
   color: #000;
   font-size: 18px;
-  font-family: nyt-cheltenham-sh, georgia, "times new roman";
+  font-family: nyt-cheltenham-sh, Georgia, 'Times New Roman', Times, serif;
 }
 
 .nav_menu_items {
@@ -156,7 +156,7 @@ div {
 .intro p {
   font-size: 40px;
   color: #121212;
-  font-family: nyt-cheltenham, georgia, "times new roman";
+  font-family: nyt-cheltenham, georgia, Georgia, 'Times New Roman', Times, serif;
   font-style: italic;
   font-weight: 500;
 }
@@ -165,7 +165,7 @@ div {
   width: 720px;
   font-size: 15px;
   color: #666;
-  font-family: nyt-imperial, georgia, "times new roman";
+  font-family: nyt-imperial, georgia, Georgia, 'Times New Roman', Times, serif;
   margin-top: 7px;
 }
 
@@ -195,7 +195,7 @@ div {
 
 .main-paragraph {
   font-size: 20px;
-  font-family: nyt-imperial, georgia, "times new roman";
+  font-family: nyt-imperial, georgia, Georgia, 'Times New Roman', Times, serif;
   color: #333;
   line-height: 1.5;
   margin-top: 20px;
@@ -232,7 +232,7 @@ div {
 .special-paragraph {
   font-size: 20px;
   color: #333;
-  font-family: nyt-imperial, georgia, "times new roman";
+  font-family: nyt-imperial, georgia, Georgia, 'Times New Roman', Times, serif;
   font-weight: bold;
   margin: 20px 0;
 }
@@ -256,7 +256,7 @@ div {
 .top-container .first-top {
   color: #000;
   font-size: 20px;
-  font-family: nyt-cheltenham, georgia, "times new roman";
+  font-family: nyt-cheltenham, georgia, Georgia, 'Times New Roman', Times, serif;
   font-weight: 400;
   margin-bottom: 5px;
 }
@@ -264,7 +264,7 @@ div {
 .top-container .second-top {
   color: #666;
   font-size: 14px;
-  font-family: nyt-cheltenha	m-sh, georgia, "times new roman";
+  font-family: nyt-cheltenha	m-sh, georgia, Georgia, 'Times New Roman', Times, serif;
 }
 
 .inflation {
@@ -391,13 +391,13 @@ div {
 .img-text {
   font-size: 13px;
   color: #888;
-  font-family: nyt-imperial, georgia, "times new roman";
+  font-family: nyt-imperial, georgia, Georgia, 'Times New Roman', Times, serif;
   margin-top: 10px;
 }
 
 .img-text span {
   color: #666;
-  font-family: nyt-imperial, georgia, "times new roman";
+  font-family: nyt-imperial, georgia, Georgia, 'Times New Roman', Times, serif;
   font-size: 15px;
   margin: 0 7px 0 0;
 }
@@ -831,7 +831,7 @@ aside {
 }
 
 .editorial-text-block p a {
-  font-family: nyt-cheltenham-small, georgia, "times new roman";
+  font-family: nyt-cheltenham-small, georgia, Georgia, 'Times New Roman', Times, serif;
   font-size: 14px;
   line-height: 17px;
   color: rgb(51, 51, 51);
