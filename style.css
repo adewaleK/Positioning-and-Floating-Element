@@ -38,6 +38,15 @@ nav {
 	margin-top: -85px;
 }
 
+footer a {
+	color: rgb(153, 153, 153);
+	font-family: nyt-franklin, helvetica, arial, sans-serif;
+	white-space: nowrap;
+	padding: 10px 0;
+	text-decoration: none;
+	font-size: 11px;
+}
+
 .nav_menu_items {
 	display: flex;
 	margin-left: 15px;
@@ -75,13 +84,6 @@ nav {
 
 div {
 	display: block;
-}footer a {
-	color: rgb(153, 153, 153);
-	font-family: nyt-franklin, helvetica, arial, sans-serif;
-	white-space: nowrap;
-	padding: 10px 0;
-	text-decoration: none;
-	font-size: 11px;
 }
 
 .menu-bttons {
@@ -173,7 +175,9 @@ div {
 
 .author a:hover {
 	text-decoration: none;
-}.main-paragraph {
+}
+
+.main-paragraph {
 	font-size: 20px;
 	font-family: nyt-imperial, georgia, "times new roman";
 	color: #333333;
@@ -650,7 +654,6 @@ footer {
 .bottom-header .home-link {
 
     margin-top: 12px;
-
 }
 
 .bottom-body {
