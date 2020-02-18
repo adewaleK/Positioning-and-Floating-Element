@@ -535,10 +535,10 @@ footer {
 .main-text a:hover {
 
     color: #666666;
+}
 
-}.right-margin {
-	margin-right: 17px;
-	
+.right-margin {
+	margin-right: 17px;	
 }
 
 .space-line hr {
@@ -568,8 +568,7 @@ footer {
 
 .space-content-heading a:hover {
 
-	text-decoration: underline;
-	
+	text-decoration: underline;	
 }
 
 .title-text {
@@ -580,7 +579,6 @@ footer {
 	margin-top: 2px;
 	margin-bottom: 8px;
     font-weight: bold;
-
 }
 
 .main-text {
@@ -589,7 +587,6 @@ footer {
 	color: #121212;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
     font-weight: 500;
-
 }
 
 .date {
@@ -598,13 +595,11 @@ footer {
 	color: #999999;
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
     margin-top: 8px;
-
 }
 
 .clear {
 
     clear: both;
-
 }
 
 .popular-text {
@@ -614,7 +609,6 @@ footer {
 	font-family: nyt-franklin, helvetica, arial, sans-serif;
 	border-top: 1px solid rgb(226, 226, 226);
     padding: 12px 0;
-
 }
 
 .main-footer-box {
@@ -622,7 +616,6 @@ footer {
 	width: 1200px;
 	margin: 0 auto;
     margin-top: 6770px;
-
 }
 
 .line1 {
