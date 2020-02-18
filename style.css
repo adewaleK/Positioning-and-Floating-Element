@@ -30,7 +30,6 @@ nav {
 	display: flex;
 	justify-content: space-between;
 	padding-top: 7px;
-
 	border-bottom: 1px solid #e2e2e2;
 	position: fixed;
 	width: 100%;
@@ -77,9 +76,7 @@ footer a {
 	cursor: pointer;
 }
 
-
 .nav_menu_items>div {
-
 	margin-right: 18px;
 }
 
@@ -431,7 +428,7 @@ div {
 	color: #666;
 	border-right: 1px solid #666;
 	padding: 0 3px;
-	text-decoration: underline	;
+	text-decoration: underline;
 }
 
 .base-paragraph a:hover {
@@ -456,7 +453,7 @@ div {
 	display: inline-block;
 	padding: 10px;
 	background: #eee;
-			
+
 	border-radius: 80px;
 	text-align: center;
 	margin: 0 5px 0 0;
