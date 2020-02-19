@@ -560,48 +560,6 @@ footer li {
   display: inline-block;
 }
 
-/* .lower-logo {
-    clear: both;
-    display: flex;
-    height: 50px;
-    width: 1281px;
-    justify-content: space-between;
-    padding: 0 40px;
-  }
-
-.lower-logo a {
-    color: rgb(98, 136, 165);
-    font-family: nyt-franklin, sans-serif;
-    font-size: 11px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 11px;
-    text-decoration: none;
-  }
-
-.logo-img{
-    margin-left: -100px;
-}
-
-.lower-container{
-    width: 1200px;
-    margin: 0 auto;
-}
-
-.lower-container b{
-    border-bottom: 1px solid #e2e2e2;
-    border-top: 2px solid #e2e2e2;
-    content: '';
-    display: block;
-    height: 1px;
-    margin-top: 0;
-}
-
-.lower-container  header{
-    float:top;
-}
-*/
-
 footer {
   height: 75px;
   text-align: center;
