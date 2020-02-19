@@ -65,14 +65,6 @@ footer a {
   font-family: nyt-cheltenham-sh, Georgia, 'Times New Roman', Times, serif;
 }
 
-.final-nav div a {
-  color: #666;
-  font-family: nyt-franklin, helvetica, arial, sans-serif;
-  padding: 10px 0;
-  text-decoration: none;
-  font-size: 11px;
-}
-
 div {
   display: block;
 }
@@ -139,13 +131,6 @@ div {
   text-decoration: none;
 }
 
-.bottom-header a {
-  font-size: 11px;
-  color: #567b95;
-  font-family: nyt-franklin, helvetica, arial, sans-serif;
-  text-decoration: none;
-}
-
 .body-flex a {
   text-transform: capitalize;
   color: #000;
@@ -161,6 +146,14 @@ div {
   font-size: 15px;
   font-family: nyt-franklin, helvetica, arial, sans-serif;
   color: #333;
+}
+
+.final-nav div a {
+	color: #666;
+	font-family: nyt-franklin, helvetica, arial, sans-serif;
+	padding: 10px 0;
+	text-decoration: none;
+	font-size: 11px;
 }
 
 .nav_menu_items p a {
