@@ -75,15 +75,15 @@ footer a {
 }
 
 .nav_menu_items p a {
-	font-size: 14px;
-	font-family: nyt-franklin, helvetica, arial, sans-serif;
-	font-weight: 700;
-	text-transform: uppercase;
-	margin-left: 5px;
-	margin-top: 2px;
-	color: #000;
-	text-decoration: none;
-  }  
+  font-size: 14px;
+  font-family: nyt-franklin, helvetica, arial, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-left: 5px;
+  margin-top: 2px;
+  color: #000;
+  text-decoration: none;
+}
 
 .logo-img a:hover {
   cursor: pointer;
