@@ -751,10 +751,11 @@ footer {
 }
 
 aside {
-  width: 210px;
-  height: 321px;
-  position: absolute;
+  float: right;
+  width: 200px;
+  padding-top: 280px;
   top: 1865px;
+  height: 321px;
   left: 1045px;
 }
 
