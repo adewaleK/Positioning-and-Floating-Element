@@ -149,11 +149,11 @@ div {
 }
 
 .final-nav div a {
-	color: #666;
-	font-family: nyt-franklin, helvetica, arial, sans-serif;
-	padding: 10px 0;
-	text-decoration: none;
-	font-size: 11px;
+  color: #666;
+  font-family: nyt-franklin, helvetica, arial, sans-serif;
+  padding: 10px 0;
+  text-decoration: none;
+  font-size: 11px;
 }
 
 .nav_menu_items p a {
