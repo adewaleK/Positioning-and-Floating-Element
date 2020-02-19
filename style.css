@@ -65,6 +65,60 @@ footer a {
   font-family: nyt-cheltenham-sh, Georgia, 'Times New Roman', Times, serif;
 }
 
+div {
+	display: block;
+}
+
+.menu-bttons a {
+	padding: 11px 12px 8px;
+	text-transform: uppercase;
+	font-size: 11px;
+	background: #567b95;
+	color: #fff;
+	font-family: nyt-franklin, helvetica, arial, sans-serif;
+	border: none;
+	border-radius: 3px;
+	text-decoration: none;
+}
+
+.short-paragraph a {
+	text-align: center;
+	font-size: 15px;
+	color: #326891;
+	font-family: nyt-franklin, helvetica, arial, sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.base-paragraph a {
+	color: #666;
+	border-right: 1px solid #666;
+	padding: 0 3px;
+	text-decoration: underline;
+}
+
+.author a {
+	font-size: 15px;
+	font-family: nyt-franklin, helvetica, arial, sans-serif;
+	color: #333;
+}
+
+.article p a {
+	color: #999;
+}
+
+.author a:hover {
+	text-decoration: none;
+}
+
+.menu-bttons a:hover {
+	cursor: pointer;
+}
+
+.stat a:hover {
+	cursor: pointer;
+}
+
 .nav_menu_items {
   display: flex;
   margin-left: 15px;
@@ -72,6 +126,14 @@ footer a {
 
 .menu_item {
   margin-right: 18px;
+}
+
+.stat2 a:hover {
+	cursor: pointer;
+}
+
+.base-paragraph a:hover {
+	text-decoration: none;
 }
 
 .nav_menu_items p a {
@@ -97,28 +159,8 @@ footer a {
   text-decoration: underline;
 }
 
-div {
-  display: block;
-}
-
 .menu-bttons {
   margin: 6px 15px 0 0;
-}
-
-.menu-bttons a {
-  padding: 11px 12px 8px;
-  text-transform: uppercase;
-  font-size: 11px;
-  background: #567b95;
-  color: #fff;
-  font-family: nyt-franklin, helvetica, arial, sans-serif;
-  border: none;
-  border-radius: 3px;
-  text-decoration: none;
-}
-
-.menu-bttons a:hover {
-  cursor: pointer;
 }
 
 .stat {
@@ -130,16 +172,18 @@ div {
   margin-top: 10px;
 }
 
+.features > div {
+	margin-top: 150px;
+	width: 228px;
+	height: 120px;
+}
+
 .stat > div:nth-child(2) {
   margin-left: auto;
 }
 
 .stat img {
   margin-right: 7px;
-}
-
-.stat a:hover {
-  cursor: pointer;
 }
 
 .middle-container {
@@ -183,16 +227,6 @@ div {
   font-weight: bold;
 }
 
-.author a {
-  font-size: 15px;
-  font-family: nyt-franklin, helvetica, arial, sans-serif;
-  color: #333;
-}
-
-.author a:hover {
-  text-decoration: none;
-}
-
 .main-paragraph {
   font-size: 20px;
   font-family: nyt-imperial, georgia, Georgia, 'Times New Roman', Times, serif;
@@ -218,15 +252,6 @@ div {
   color: #333;
   font-family: nyt-franklin, helvetica, arial, sans-serif;
   font-weight: bold;
-}
-
-.short-paragraph a {
-  text-align: center;
-  font-size: 15px;
-  color: #326891;
-  font-family: nyt-franklin, helvetica, arial, sans-serif;
-  font-weight: bold;
-  text-decoration: none;
 }
 
 .special-paragraph {
@@ -283,10 +308,23 @@ div {
   justify-content: space-between;
 }
 
-.features > div {
-  margin-top: 150px;
-  width: 228px;
-  height: 120px;
+.co-authors p {
+	color: #333;
+	font-size: 14px;
+	font-family: nyt-franklin, arial, helvetica, sans-serif;
+	line-height: 1.125rem;
+	font-weight: 500;
+	font-style: normal;
+}
+
+.base-paragraph p {
+	font-family: nyt-franklin, helvetica, arial, sans-serif;
+	font-size: 0.75rem;
+	line-height: 1rem;
+	max-width: 600px;
+	margin: 0 auto 1em;
+	color: #999;
+	padding-bottom: 15px;
 }
 
 .features > div p {
@@ -295,10 +333,6 @@ div {
   font-family: nyt-franklin, arial, helvetica, sans-serif;
   line-height: 17px;
   font-weight: lighter;
-}
-
-.article p a {
-  color: #999;
 }
 
 .article-btn {
@@ -321,14 +355,6 @@ div {
 
 .stat2 {
   display: flex;
-  margin-top: 10px;
-}
-
-.stat2 a:hover {
-  cursor: pointer;
-}
-
-.stat p {
   margin-top: 10px;
 }
 
@@ -360,15 +386,6 @@ div {
   width: 60px;
   background-color: #000;
   margin-bottom: 15px;
-}
-
-.co-authors p {
-  color: #333;
-  font-size: 14px;
-  font-family: nyt-franklin, arial, helvetica, sans-serif;
-  line-height: 1.125rem;
-  font-weight: 500;
-  font-style: normal;
 }
 
 .article-share {
@@ -420,27 +437,6 @@ div {
   font-family: nyt-franklin, arial, helvetica, sans-serif;
   margin-top: 20px;
   line-height: 17px;
-}
-
-.base-paragraph a {
-  color: #666;
-  border-right: 1px solid #666;
-  padding: 0 3px;
-  text-decoration: underline;
-}
-
-.base-paragraph a:hover {
-  text-decoration: none;
-}
-
-.base-paragraph p {
-  font-family: nyt-franklin, helvetica, arial, sans-serif;
-  font-size: 0.75rem;
-  line-height: 1rem;
-  max-width: 600px;
-  margin: 0 auto 1em;
-  color: #999;
-  padding-bottom: 15px;
 }
 
 .base-paragraph span:last-child a {
